@@ -2,11 +2,8 @@
   "name": "sb",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
-    "preview": "vite preview",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "start": "build-storybook",
+    "dev": "vite"
   },
   "dependencies": {
     "vue": "^3.2.25"
