@@ -2,7 +2,7 @@
   "name": "sb",
   "version": "0.0.0",
   "scripts": {
-    "start": "start-storybook -p 80",
+    "start": "start-storybook -p 8080",
     "server": "vite"
   },
   "dependencies": {
